@@ -1,0 +1,2 @@
+cls
+python Windows_Update_Pauser.py
